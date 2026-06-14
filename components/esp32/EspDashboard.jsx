@@ -60,13 +60,7 @@ export default function Esp32Dashboard(){
       </p>
       
     </div>
-    <div className="mt-4">
-      <p className="text-sm text-muted-foreground">Production Count</p>
-      <p className="text-2xl font-bold">
-        {data.} <span className="text-sm font-medium">Nos.</span>
-      </p>
-      
-    </div>
+    
 
   </div>
 
