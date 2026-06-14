@@ -49,10 +49,6 @@ export default function Esp32Dashboard(){
       </p>
       
     </div>
-     <p className="text-2xl font-bold">
-        {data.cycle_time_sec} <span className="text-sm font-medium">sec</span>
-      </p>
-
     <div className="mt-4">
       <p className="text-sm text-muted-foreground">Production Count</p>
       <p className="text-2xl font-bold">
